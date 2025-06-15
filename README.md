@@ -8,7 +8,7 @@ Kishna Mart wants to create an annual sales report for 2022. So that, Krishna Ma
 * Who purchesed more men or women in 2022?
 * What are the different order status?
 * List top 10 state contributingn to the sales?
-* Relation between age and gender bases on number.
+* Relation between age and gender bases on number of orders.
 * Which channel is contributing to maximum sales?
 * Highest selling category? 
 
