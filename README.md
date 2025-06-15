@@ -19,5 +19,12 @@ Kishna Mart wants to create an annual sales report for 2022. So that, Krishna Ma
 * Adult age group (30-49 yrs) is max contributing (-50%)
 * Amazon, Flipkart and Myntra Channels are max contributing (-80)
 
+🎯Conclusion
+Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+ 
+
+  
+
+
   
 
