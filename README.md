@@ -16,6 +16,7 @@ This project prevent an interactive Excel Dashboard to explore and analyze sales
 * Highest selling category?
 
 🎯Tools:-
+
  Throughout this project i utillized advance excel function,data cleaning techniques, Pivot tables, pivot chats and other data visualization tools.
  
 🎯Key Insights
