@@ -1,4 +1,4 @@
-# KRISHNA MART DASHBOARD
+ 🏪KRISHNA MART DASHBOARD
 This project prevent an interactive Excel Dashboard to explore and analyze sales. The dashboard provides insights into order of sales, monthly order, purches, order status etc. 
 
 🎯Project Objective:-
@@ -14,13 +14,17 @@ This project prevent an interactive Excel Dashboard to explore and analyze sales
 * Which channel is contributing to maximum sales?
 * Highest selling category?
 
-🎯Insights :-
-* Women are more likely to buy compared to men (-65)
-* Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (-35%)
-* Adult age group (30-49 yrs) is max contributing (-50%)
-* Amazon, Flipkart and Myntra Channels are max contributing (-80)
+🎯Tools:-
+ Throughout this project i utillized advance excel function,data cleaning techniques, Pivot tables, pivot chats and other data visualization tools.
+ 
+🎯Key Insights
 
-🎯Conclusion
+* Women are more likely to buy compared to men.
+* Maharashtra, Karnataka and Uttar Pradesh are the top 3 states.
+*The Adult age group (30-49 yrs) is max contributing.
+* Amazon, Flipkart and Myntra contribute most.
+
+🎯Conclusion to Improve
 Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
  
 
