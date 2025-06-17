@@ -8,10 +8,10 @@ This project prevent an interactive Excel Dashboard to explore and analyze sales
  
 * Compare the sales and orders.
 * Which month got the highest sales and ordes?
-* Who purchesed more men or women in 2022?
+* Who purchased more men or women in 2022?
 * What are the different order status?
-* List top 10 state contributingn to the sales?
-* Relation between age and gender bases on number of orders.
+* List top 10 state contributing to the sales?
+* Relation between age and gender based on number of orders.
 * Which channel is contributing to maximum sales?
 * Highest selling category?
 
