@@ -27,6 +27,7 @@ This project prevent an interactive Excel Dashboard to explore and analyze sales
 * Amazon, Flipkart and Myntra contribute most.
 
 🎯Conclusion to Improve
+
 Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
  
 
