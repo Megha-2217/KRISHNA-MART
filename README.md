@@ -1,9 +1,11 @@
-# KRISHNA-MART
-🎯Objective:-
+# KRISHNA MART DASHBOARD
+This project prevent an interactive Excel Dashboard to explore and analyze sales. The dashboard provides insights into order of sales, monthly order, purches, order status etc. 
 
-Kishna Mart wants to create an annual sales report for 2022. So that, Krishna Mart can understant their customers satisfaction and grow more sales in 2023.
+🎯Project Objective:-
 
-🎯Requirement of Krishna Mart:-
+ Created this an annual sales report for krishna mart to help them understand their customers better and drive sales growth in 2023.
+ 
+ equirement of Krishna Mart:-
 * Compare the sales and orders.
 * Which month got the highest sales and ordes?
 * Who purchesed more men or women in 2022?
